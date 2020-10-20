@@ -1,0 +1,17 @@
+
+.Barra-final {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5rem;
+    text-decoration: none;
+}
+
+.redes-sociales img {
+    height: 10rem;
+    width: 10rem;
+}
+
+.navbar img {
+    width: 7rem;
+}
